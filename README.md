@@ -1,4 +1,7 @@
 go_test
 =======
 
-Go縺ｮ邱ｴ鄙堤畑
+Goの練習用
+
+インストール
+https://golang.org/doc/install
